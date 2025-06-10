@@ -23,6 +23,3 @@ A clean and responsive weather application built with **HTML**, **CSS**, and **J
 
 ---
 
-## 🚀 Getting Started
-
-
