@@ -29,4 +29,4 @@ A clean and responsive weather application built with **HTML**, **CSS**, and **J
 
    ```bash
    git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+
