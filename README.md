@@ -23,3 +23,5 @@ A clean and responsive weather application built with **HTML**, **CSS**, and **J
 
 ---
 
+## 🙋‍♂️ Author
+Made with ❤️ by Jeesan Abbas
